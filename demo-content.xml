@@ -1,0 +1,3384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Lumora Beauty Demo — WordPress eXtended RSS (WXR 1.2). Demo content for the Lumora theme. Images are hosted at https://anwar3939.github.io/lumora-demo-site/ -->
+<!-- generator="WordPress/7.1.3" created="2026-10-25 10:00" -->
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+<title>Lumora — Beauty Demo</title>
+<link>https://example.com</link>
+<description>Lumora demo content</description>
+<pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+<language>en-US</language>
+<wp:wxr_version>1.2</wp:wxr_version>
+<wp:base_site_url>https://example.com</wp:base_site_url>
+<wp:base_blog_url>https://example.com</wp:base_blog_url>
+<wp:author>
+  <wp:author_id>1</wp:author_id>
+  <wp:author_login>admin</wp:author_login>
+  <wp:author_email>demo@example.com</wp:author_email>
+  <wp:author_display_name><![CDATA[admin]]></wp:author_display_name>
+  <wp:author_first_name><![CDATA[]]></wp:author_first_name>
+  <wp:author_last_name><![CDATA[]]></wp:author_last_name>
+</wp:author>
+<wp:term><wp:term_id>21</wp:term_id><wp:term_taxonomy>product_cat</wp:term_taxonomy><wp:term_slug>skincare</wp:term_slug><wp:term_name><![CDATA[Skincare]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>22</wp:term_id><wp:term_taxonomy>product_cat</wp:term_taxonomy><wp:term_slug>makeup</wp:term_slug><wp:term_name><![CDATA[Makeup]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>23</wp:term_id><wp:term_taxonomy>product_cat</wp:term_taxonomy><wp:term_slug>bath-body</wp:term_slug><wp:term_name><![CDATA[Bath & Body]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>24</wp:term_id><wp:term_taxonomy>product_cat</wp:term_taxonomy><wp:term_slug>clean-organic</wp:term_slug><wp:term_name><![CDATA[Clean & Organic]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>41</wp:term_id><wp:term_taxonomy>pa_shade</wp:term_taxonomy><wp:term_slug>rosewood</wp:term_slug><wp:term_name><![CDATA[Rosewood]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>42</wp:term_id><wp:term_taxonomy>pa_shade</wp:term_taxonomy><wp:term_slug>terracotta</wp:term_slug><wp:term_name><![CDATA[Terracotta]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>43</wp:term_id><wp:term_taxonomy>pa_shade</wp:term_taxonomy><wp:term_slug>berry</wp:term_slug><wp:term_name><![CDATA[Berry]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>44</wp:term_id><wp:term_taxonomy>pa_shade</wp:term_taxonomy><wp:term_slug>nude</wp:term_slug><wp:term_name><![CDATA[Nude]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>45</wp:term_id><wp:term_taxonomy>pa_shade</wp:term_taxonomy><wp:term_slug>porcelain</wp:term_slug><wp:term_name><![CDATA[Porcelain]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>46</wp:term_id><wp:term_taxonomy>pa_shade</wp:term_taxonomy><wp:term_slug>sand</wp:term_slug><wp:term_name><![CDATA[Sand]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>47</wp:term_id><wp:term_taxonomy>pa_shade</wp:term_taxonomy><wp:term_slug>honey</wp:term_slug><wp:term_name><![CDATA[Honey]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>48</wp:term_id><wp:term_taxonomy>pa_shade</wp:term_taxonomy><wp:term_slug>amber</wp:term_slug><wp:term_name><![CDATA[Amber]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>31</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>main-menu</wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>32</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>rituals</wp:term_slug><wp:term_name><![CDATA[Rituals]]></wp:term_name></wp:term>
+<wp:term><wp:term_id>33</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>footer-menu</wp:term_slug><wp:term_name><![CDATA[Footer Menu]]></wp:term_name></wp:term>
+  <item>
+    <title>product-lumiere-serum.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-lumiere-serum/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-lumiere-serum.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>101</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-lumiere-serum]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-lumiere-serum.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-lumiere-serum.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product lumiere serum]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-cloud-cream.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-cloud-cream/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-cloud-cream.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>102</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-cloud-cream]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-cloud-cream.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-cloud-cream.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product cloud cream]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-cloud-cleanser.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-cloud-cleanser/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-cloud-cleanser.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>103</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-cloud-cleanser]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-cloud-cleanser.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-cloud-cleanser.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product cloud cleanser]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-rose-toner.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-rose-toner/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-rose-toner.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>104</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-rose-toner]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-rose-toner.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-rose-toner.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product rose toner]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-night-cream.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-night-cream/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-night-cream.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>105</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-night-cream]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-night-cream.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-night-cream.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product night cream]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-velvet-lipstick.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-velvet-lipstick/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-velvet-lipstick.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>106</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-velvet-lipstick]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-velvet-lipstick.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-velvet-lipstick.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product velvet lipstick]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-silk-foundation.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-silk-foundation/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-silk-foundation.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>107</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-silk-foundation]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-silk-foundation.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-silk-foundation.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product silk foundation]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-cheek-tint.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-cheek-tint/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-cheek-tint.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>108</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-cheek-tint]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-cheek-tint.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-cheek-tint.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product cheek tint]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-mascara.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-mascara/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-mascara.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>109</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-mascara]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-mascara.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-mascara.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product mascara]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-eyeshadow-palette.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-eyeshadow-palette/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-eyeshadow-palette.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>110</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-eyeshadow-palette]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-eyeshadow-palette.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-eyeshadow-palette.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product eyeshadow palette]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-body-lotion.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-body-lotion/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-body-lotion.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>111</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-body-lotion]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-body-lotion.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-body-lotion.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product body lotion]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-body-scrub.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-body-scrub/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-body-scrub.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>112</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-body-scrub]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-body-scrub.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-body-scrub.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product body scrub]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-face-oil.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-face-oil/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-face-oil.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>113</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-face-oil]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-face-oil.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-face-oil.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product face oil]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>product-clay-mask.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/product-clay-mask/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/product-clay-mask.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>114</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[product-clay-mask]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/product-clay-mask.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/product-clay-mask.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[product clay mask]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>cat-skincare.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/cat-skincare/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/cat-skincare.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>115</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[cat-skincare]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/cat-skincare.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/cat-skincare.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[cat skincare]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>cat-makeup.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/cat-makeup/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/cat-makeup.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>116</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[cat-makeup]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/cat-makeup.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/cat-makeup.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[cat makeup]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>cat-bath-body.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/cat-bath-body/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/cat-bath-body.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>117</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[cat-bath-body]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/cat-bath-body.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/cat-bath-body.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[cat bath body]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>cat-clean-organic.jpg</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/cat-clean-organic/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/cat-clean-organic.jpg</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>118</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[cat-clean-organic]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://anwar3939.github.io/lumora-demo-site/cat-clean-organic.jpg</wp:attachment_url>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_wp_attached_file</wp:meta_key>
+      <wp:meta_value><![CDATA[2026/10/cat-clean-organic.jpg]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+      <wp:meta_value><![CDATA[cat clean organic]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Lumière Vitamin C Serum</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/lumiere-vitamin-c-serum/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=201</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[A brightening serum with real 15% Vitamin C for a glow you can measure, not just promise.]]></content:encoded>
+    <excerpt:encoded><![CDATA[A brightening serum with real 15% Vitamin C for a glow you can measure, not just promise.]]></excerpt:encoded>
+    <wp:post_id>201</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[lumiere-vitamin-c-serum]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="skincare"><![CDATA[Skincare]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-SERUM]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[42]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[52]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[101]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[320]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.9]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[42]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[42]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_lumora_ingredients</wp:meta_key>
+      <wp:meta_value><![CDATA[Vitamin C|15%|Brightening hero of the serum.
+Hyaluronic Acid|2%|Multi-weight hydration.]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_lumora_subscribe_save</wp:meta_key>
+      <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sale_price</wp:meta_key>
+      <wp:meta_value><![CDATA[42]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:comment>
+      <wp:comment_id>901</wp:comment_id>
+      <wp:comment_author><![CDATA[Priya S.]]></wp:comment_author>
+      <wp:comment_author_email><![CDATA[priya@example.com]]></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>127.0.0.1</wp:comment_author_IP>
+      <wp:comment_date><![CDATA[2026-10-20 09:00:00]]></wp:comment_date>
+      <wp:comment_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:comment_date_gmt>
+      <wp:comment_content><![CDATA[The shade picker sold me. I chose Honey without swatching in a store and it matched perfectly — first time ever.]]></wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type>review</wp:comment_type>
+      <wp:comment_parent>0</wp:comment_parent>
+      <wp:comment_user_id>0</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>rating</wp:meta_key>
+        <wp:meta_value><![CDATA[5]]></wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>verified</wp:meta_key>
+        <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+
+  </item>
+  <item>
+    <title>Cloud Whipped Cream</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/cloud-whipped-cream/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=202</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[A whipped, fragrance-free moisturiser that melts in and never pills under makeup.]]></content:encoded>
+    <excerpt:encoded><![CDATA[A whipped, fragrance-free moisturiser that melts in and never pills under makeup.]]></excerpt:encoded>
+    <wp:post_id>202</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[cloud-whipped-cream]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="skincare"><![CDATA[Skincare]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-CREAM]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[38]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[38]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[102]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[210]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.7]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[29]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[29]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_lumora_ingredients</wp:meta_key>
+      <wp:meta_value><![CDATA[Hyaluronic Acid|2%|Multi-weight hydration.
+Niacinamide|5%|Barrier support for daily use.]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Gentle Cloud Cleanser</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/gentle-cloud-cleanser/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=203</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[A gentle daily cleanser for every skin type — the first step of every Lumora routine.]]></content:encoded>
+    <excerpt:encoded><![CDATA[A gentle daily cleanser for every skin type — the first step of every Lumora routine.]]></excerpt:encoded>
+    <wp:post_id>203</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[gentle-cloud-cleanser]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="skincare"><![CDATA[Skincare]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-CLEANSER]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[22]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[22]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[103]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[180]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.8]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_lumora_ingredients</wp:meta_key>
+      <wp:meta_value><![CDATA[Glycerin|5%|Gentle humectant cleansing base.]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_lumora_subscribe_save</wp:meta_key>
+      <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Rose Renewal Toner</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/rose-renewal-toner/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=204</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[A rose-water toner that preps skin for serums without stripping.]]></content:encoded>
+    <excerpt:encoded><![CDATA[A rose-water toner that preps skin for serums without stripping.]]></excerpt:encoded>
+    <wp:post_id>204</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[rose-renewal-toner]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="skincare"><![CDATA[Skincare]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-TONER]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[28]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[28]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[104]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[95]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.6]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[17]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[17]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_lumora_ingredients</wp:meta_key>
+      <wp:meta_value><![CDATA[Rose Water|10%|Calming floral water base.]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Hydra Boost Night Cream</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/hydra-boost-night-cream/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=205</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[An overnight barrier cream for skin that wakes up calmer than it went to sleep.]]></content:encoded>
+    <excerpt:encoded><![CDATA[An overnight barrier cream for skin that wakes up calmer than it went to sleep.]]></excerpt:encoded>
+    <wp:post_id>205</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[hydra-boost-night-cream]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="skincare"><![CDATA[Skincare]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-NIGHT]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[46]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[46]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[105]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[140]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.8]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[21]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[21]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_lumora_ingredients</wp:meta_key>
+      <wp:meta_value><![CDATA[Ceramide Complex|3%|Overnight barrier repair.]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Velvet Matte Lipstick</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/velvet-matte-lipstick/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=206</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[A velvet matte lipstick in four real shades — Rosewood, Terracotta, Berry and Nude. Pick your exact shade on the card; the colour you see is the colour you get.]]></content:encoded>
+    <excerpt:encoded><![CDATA[Velvet matte finish in Rosewood, Terracotta, Berry and Nude.]]></excerpt:encoded>
+    <wp:post_id>206</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[velvet-matte-lipstick]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="makeup"><![CDATA[Makeup]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-LIPSTICK]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[106]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[260]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.8]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[35]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[35]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_attributes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{s:8:"pa_shade";a:6:{s:4:"name";s:8:"pa_shade";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_min_variation_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_max_variation_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_min_variation_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_max_variation_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:comment>
+      <wp:comment_id>903</wp:comment_id>
+      <wp:comment_author><![CDATA[Nadia K.]]></wp:comment_author>
+      <wp:comment_author_email><![CDATA[nadia@example.com]]></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>127.0.0.1</wp:comment_author_IP>
+      <wp:comment_date><![CDATA[2026-10-22 09:00:00]]></wp:comment_date>
+      <wp:comment_date_gmt><![CDATA[2026-10-22 09:00:00]]></wp:comment_date_gmt>
+      <wp:comment_content><![CDATA[Finally a theme where ingredients are not hidden. I checked the 15% Vitamin C before buying — and it shows.]]></wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type>review</wp:comment_type>
+      <wp:comment_parent>0</wp:comment_parent>
+      <wp:comment_user_id>0</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>rating</wp:meta_key>
+        <wp:meta_value><![CDATA[5]]></wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>verified</wp:meta_key>
+        <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+
+  </item>
+  <item>
+    <title>Silk Second-Skin Foundation</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/silk-second-skin-foundation/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=207</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[A second-skin foundation in Porcelain, Sand, Honey and Amber. Lightweight, buildable coverage that looks like skin, not makeup.]]></content:encoded>
+    <excerpt:encoded><![CDATA[Second-skin coverage in Porcelain, Sand, Honey and Amber.]]></excerpt:encoded>
+    <wp:post_id>207</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[silk-second-skin-foundation]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="makeup"><![CDATA[Makeup]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-FOUNDATION]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[44]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[107]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[300]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.9]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[38]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[38]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_attributes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:1:{s:8:"pa_shade";a:6:{s:4:"name";s:8:"pa_shade";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_min_variation_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_max_variation_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_min_variation_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[44]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_max_variation_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[44]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sale_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:comment>
+      <wp:comment_id>902</wp:comment_id>
+      <wp:comment_author><![CDATA[Amelia R.]]></wp:comment_author>
+      <wp:comment_author_email><![CDATA[amelia@example.com]]></wp:comment_author_email>
+      <wp:comment_author_url></wp:comment_author_url>
+      <wp:comment_author_IP>127.0.0.1</wp:comment_author_IP>
+      <wp:comment_date><![CDATA[2026-10-21 09:00:00]]></wp:comment_date>
+      <wp:comment_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:comment_date_gmt>
+      <wp:comment_content><![CDATA[The routine quiz gave me three products instead of ten. My skin has never been this calm.]]></wp:comment_content>
+      <wp:comment_approved>1</wp:comment_approved>
+      <wp:comment_type>review</wp:comment_type>
+      <wp:comment_parent>0</wp:comment_parent>
+      <wp:comment_user_id>0</wp:comment_user_id>
+      <wp:commentmeta>
+        <wp:meta_key>rating</wp:meta_key>
+        <wp:meta_value><![CDATA[5]]></wp:meta_value>
+      </wp:commentmeta>
+      <wp:commentmeta>
+        <wp:meta_key>verified</wp:meta_key>
+        <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      </wp:commentmeta>
+    </wp:comment>
+
+  </item>
+  <item>
+    <title>Glow Cheek Tint</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/glow-cheek-tint/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=208</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[A buildable rosy tint for cheeks and lips — sheer first swipe, deeper on the second.]]></content:encoded>
+    <excerpt:encoded><![CDATA[A buildable rosy tint for cheeks and lips — sheer first swipe, deeper on the second.]]></excerpt:encoded>
+    <wp:post_id>208</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[glow-cheek-tint]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="makeup"><![CDATA[Makeup]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-TINT]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[26]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[26]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[108]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[110]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.7]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[15]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[15]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Lash Volume Mascara</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/lash-volume-mascara/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=209</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[Volume without clumps, and it removes with warm water — no rubbing.]]></content:encoded>
+    <excerpt:encoded><![CDATA[Volume without clumps, and it removes with warm water — no rubbing.]]></excerpt:encoded>
+    <wp:post_id>209</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[lash-volume-mascara]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="makeup"><![CDATA[Makeup]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-MASCARA]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[109]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[88]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.6]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[12]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[12]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Petal Eyeshadow Palette</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/petal-eyeshadow-palette/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=210</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[Twelve warm neutral mattes and shimmers, from everyday sand to evening berry.]]></content:encoded>
+    <excerpt:encoded><![CDATA[Twelve warm neutral mattes and shimmers, from everyday sand to evening berry.]]></excerpt:encoded>
+    <wp:post_id>210</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[petal-eyeshadow-palette]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="makeup"><![CDATA[Makeup]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-PALETTE]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[39]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[39]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[110]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[120]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.8]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[19]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[19]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Jasmine Body Lotion</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/jasmine-body-lotion/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=211</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[A jasmine body lotion that absorbs fast and keeps skin soft all day.]]></content:encoded>
+    <excerpt:encoded><![CDATA[A jasmine body lotion that absorbs fast and keeps skin soft all day.]]></excerpt:encoded>
+    <wp:post_id>211</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[jasmine-body-lotion]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="bath-body"><![CDATA[Bath & Body]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-LOTION]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[30]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[30]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[111]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[76]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.7]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[11]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[11]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_lumora_subscribe_save</wp:meta_key>
+      <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Sugar Rose Body Scrub</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/sugar-rose-body-scrub/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=212</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[A sugar polish with rose — smooth skin in one shower, no oily film.]]></content:encoded>
+    <excerpt:encoded><![CDATA[A sugar polish with rose — smooth skin in one shower, no oily film.]]></excerpt:encoded>
+    <wp:post_id>212</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[sugar-rose-body-scrub]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="bath-body"><![CDATA[Bath & Body]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-SCRUB]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[32]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[32]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[112]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[64]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.7]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[9]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[9]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Botanical Face Oil</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/botanical-face-oil/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=213</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[A single-origin botanical oil for glow without grease.]]></content:encoded>
+    <excerpt:encoded><![CDATA[A single-origin botanical oil for glow without grease.]]></excerpt:encoded>
+    <wp:post_id>213</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[botanical-face-oil]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="clean-organic"><![CDATA[Clean & Organic]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-OIL]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[44]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[44]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[113]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[150]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.9]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[26]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[26]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_lumora_ingredients</wp:meta_key>
+      <wp:meta_value><![CDATA[Jojoba Oil|100%|Cold-pressed botanical base.]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Green Tea Clay Mask</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/green-tea-clay-mask/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=214</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[A green-tea clay mask for congested skin — ten minutes, then rinse.]]></content:encoded>
+    <excerpt:encoded><![CDATA[A green-tea clay mask for congested skin — ten minutes, then rinse.]]></excerpt:encoded>
+    <wp:post_id>214</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[green-tea-clay-mask]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="product_cat" nicename="clean-organic"><![CDATA[Clean & Organic]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-MASK]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[34]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[34]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_visibility</wp:meta_key>
+      <wp:meta_value><![CDATA[visible]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_thumbnail_id</wp:meta_key>
+      <wp:meta_value><![CDATA[114]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>total_sales</wp:meta_key>
+      <wp:meta_value><![CDATA[130]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_average_rating</wp:meta_key>
+      <wp:meta_value><![CDATA[4.8]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_rating_count</wp:meta_key>
+      <wp:meta_value><![CDATA[22]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_wc_review_count</wp:meta_key>
+      <wp:meta_value><![CDATA[22]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_product_version</wp:meta_key>
+      <wp:meta_value><![CDATA[11.2.1]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_lumora_ingredients</wp:meta_key>
+      <wp:meta_value><![CDATA[Green Tea Extract|8%|Calming antioxidant clay mask.]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Velvet Matte Lipstick — Rosewood</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/206-rosewood/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=301</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>301</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[206-rosewood]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>206</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product_variation</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-LIP-ROSEWOOD]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>attribute_pa_shade</wp:meta_key>
+      <wp:meta_value><![CDATA[rosewood]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Velvet Matte Lipstick — Terracotta</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/206-terracotta/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=302</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>302</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[206-terracotta]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>206</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product_variation</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-LIP-TERRACOTTA]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>attribute_pa_shade</wp:meta_key>
+      <wp:meta_value><![CDATA[terracotta]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Velvet Matte Lipstick — Berry</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/206-berry/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=303</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>303</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[206-berry]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>206</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product_variation</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-LIP-BERRY]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>attribute_pa_shade</wp:meta_key>
+      <wp:meta_value><![CDATA[berry]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Velvet Matte Lipstick — Nude</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/206-nude/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=304</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>304</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[206-nude]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>206</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product_variation</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-LIP-NUDE]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>attribute_pa_shade</wp:meta_key>
+      <wp:meta_value><![CDATA[nude]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Silk Second-Skin Foundation — Porcelain</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/207-porcelain/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=305</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>305</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[207-porcelain]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>207</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product_variation</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[44]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-FOUND-PORCELAIN]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>attribute_pa_shade</wp:meta_key>
+      <wp:meta_value><![CDATA[porcelain]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sale_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Silk Second-Skin Foundation — Sand</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/207-sand/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=306</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>306</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[207-sand]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>207</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product_variation</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[44]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-FOUND-SAND]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>attribute_pa_shade</wp:meta_key>
+      <wp:meta_value><![CDATA[sand]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sale_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Silk Second-Skin Foundation — Honey</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/207-honey/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=307</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>307</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[207-honey]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>207</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product_variation</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[44]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-FOUND-HONEY]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>attribute_pa_shade</wp:meta_key>
+      <wp:meta_value><![CDATA[honey]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sale_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Silk Second-Skin Foundation — Amber</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/207-amber/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=308</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>308</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[207-amber]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>207</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>product_variation</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta>
+      <wp:meta_key>_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_regular_price</wp:meta_key>
+      <wp:meta_value><![CDATA[44]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sku</wp:meta_key>
+      <wp:meta_value><![CDATA[LUM-FOUND-AMBER]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_stock_status</wp:meta_key>
+      <wp:meta_value><![CDATA[instock]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>attribute_pa_shade</wp:meta_key>
+      <wp:meta_value><![CDATA[amber]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_sale_price</wp:meta_key>
+      <wp:meta_value><![CDATA[36]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Home</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/home/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=401</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>401</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[home]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Routine Quiz</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/routine-quiz/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=402</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[[lumora_routine_builder]]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>402</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[routine-quiz]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>About</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/about/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=403</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[Lumora is a premium beauty store theme demo. Replace this page with your own story.]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>403</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[about]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Contact</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/contact/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=404</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[Write to us — the demo contact page. Replace with your own contact details.]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>404</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[contact]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>Shipping &amp; Returns</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/shipping-returns/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=405</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[Complimentary shipping over $50. 30-day returns on every order in this demo store.]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>405</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[shipping-returns]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>FAQ</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/faq/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=406</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[How do I find my shade? Use the shade names on every card — Rosewood, Terracotta, Porcelain, Sand and more.]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>406</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[faq]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+  <item>
+    <title>How to layer Vitamin C without irritating your skin</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/layer-vitamin-c/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=501</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[Start with a pea-sized amount in the morning, follow with moisturiser, and always finish with SPF. Less is more with active ingredients.]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>501</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[layer-vitamin-c]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  </item>
+  <item>
+    <title>Finding your undertone: warm, cool or neutral?</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/finding-your-undertone/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=502</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[Look at your wrist veins in daylight: greenish means warm, bluish means cool, both means neutral. Then match a shade name, not a colour dot.]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>502</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[finding-your-undertone]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  </item>
+  <item>
+    <title>The 3-step morning routine that actually sticks</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/three-step-morning-routine/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=503</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[Cleanse, treat, moisturise. Three steps, every morning, beats ten steps done once a week.]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>503</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[three-step-morning-routine]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  </item>
+  <item>
+    <title>Home</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-601/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=601</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>601</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-601]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[401]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[page]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Shop</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-602/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=602</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>602</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-602]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[https://example.com/shop/]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Skincare</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-603/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=603</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>603</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-603]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[21]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Makeup</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-604/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=604</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>604</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-604]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[22]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Routine Quiz</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-605/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=605</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>605</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-605]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[402]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[page]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Journal</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-606/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=606</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>606</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-606]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[https://example.com/journal/]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>All Beauty</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-607/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=607</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>607</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-607]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="rituals"><![CDATA[Rituals]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[https://example.com/shop/]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Skincare</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-608/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=608</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>608</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-608]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="rituals"><![CDATA[Rituals]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[21]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Makeup</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-609/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=609</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>609</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-609]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="rituals"><![CDATA[Rituals]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[22]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Bath &amp; Body</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-610/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=610</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>610</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-610]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="rituals"><![CDATA[Rituals]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[23]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Clean &amp; Organic</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-611/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=611</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>611</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-611]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="rituals"><![CDATA[Rituals]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[24]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Shipping &amp; Returns</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-612/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=612</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>612</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-612]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[405]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[page]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>FAQ</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-613/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=613</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>613</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-613]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[406]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[page]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  <item>
+    <title>Contact</title>
+    <link>https://anwar3939.github.io/lumora-demo-site/menu-item-614/</link>
+    <pubDate>Sat, 25 Oct 2026 10:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://anwar3939.github.io/lumora-demo-site/?p=614</guid>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>614</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-25 10:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-25 10:00:00]]></wp:post_date_gmt>
+    <wp:comment_status>open</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name><![CDATA[menu-item-614]]></wp:post_name>
+    <wp:status><![CDATA[publish]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>nav_menu_item</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_type</wp:meta_key>
+      <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object_id</wp:meta_key>
+      <wp:meta_value><![CDATA[404]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_object</wp:meta_key>
+      <wp:meta_value><![CDATA[page]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_target</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_classes</wp:meta_key>
+      <wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_xfn</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+    <wp:postmeta>
+      <wp:meta_key>_menu_item_url</wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+
+  </item>
+  </channel>
+</rss>
